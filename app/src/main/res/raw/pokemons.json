@@ -1,0 +1,34 @@
+{
+  "pokemons": [
+    {
+      "image-url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+      "pokemon-name": "Pikachu",
+      "national-pokedex-number": "25"
+    },
+    {
+      "image-url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+      "pokemon-name": "Snorlax",
+      "national-pokedex-number": "143"
+    },
+    {
+      "image-url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
+      "pokemon-name": "Psyduck",
+      "national-pokedex-number": "54"
+    },
+    {
+      "image-url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+      "pokemon-name": "Bulbasaur",
+      "national-pokedex-number": "1"
+    },
+    {
+      "image-url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
+      "pokemon-name": "Meowth",
+      "national-pokedex-number": "52"
+    },
+    {
+      "image-url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+      "pokemon-name": "Jigglypuff",
+      "national-pokedex-number": "39"
+    }
+  ]
+}
